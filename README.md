@@ -1,7 +1,7 @@
-/# Ex.No: 03   COMPUTE THE AUTO FUNCTION(ACF)
+# Ex.No: 03   COMPUTE THE AUTO FUNCTION(ACF)
 Name: Priyadharshan S
 Date: 02/09/2025
-/
+
 
 ### AIM:
 To Compute the AutoCorrelation Function (ACF) of the data for the first 35 lags to determine the model
